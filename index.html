@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Timeline test</title>
+ <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="materializecss.min.css">
+  <link rel="stylesheet" href="timeline.min.css">
+</head>
+
+<body>
+
+
+
+<div class="parallax-container">
+    <div class="parallax"><img src="http://materializecss.com/images/parallax1.jpg"></div>
+  </div>
+  <div class="section white">
+    <div class="row container">
+     
+     
+     
+     <!-- Timeline Block -->
+<div id="myTimeline">
+  <div class="timeline-events">
+
+
+  </div>
+</div>
+
+<!-- Timeline Event Detail View Area (optional) -->
+<div class="timeline-event-view">
+
+</div>
+     
+      
+      
+      
+    </div>
+  </div>
+  <div class="parallax-container">
+    <div class="parallax"><img src="http://materializecss.com/images/parallax2.jpg"></div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="jquery.min.js"></script> 
+<script src="timeline.js"></script>
+
+
+  <!-- Compiled and minified JavaScript -->
+  <script src="materializecss.min.js"></script>
+<script>
+$(document).ready(function(){
+      $('.parallax').parallax();
+	  
+    });
+
+$(function () {
+  $("#myTimeline").timeline({
+	  scale: 'years',
+	  dateTimeformat: 'Y',
+	  minGridSize: '30',
+	  minGridPer: '1',
+	  range: '38',
+	  startDatetime:'1981',
+	  rows:'6',
+	  rangeAlign: 'center',
+	  type:'point'
+	  })
+	 
+});
+
+ $('.timeline-header').css('display','none');
+
+
+
+</script>
+<script src="get_landmarks.js"></script> 
+
+</body>
+</html>

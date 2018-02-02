@@ -1,0 +1,157 @@
+
+[	
+	{	
+        "start": "1981-11-09",
+		"end": "",
+        "row": "3",
+		"relation": { 
+					"before": "100000",
+					"after": "2",
+					"linesize": "2",
+					"linecolor": "#ff0000",
+					"curve": "",
+					"lineDash": "[10,10]"
+					},
+		"label": "Born",
+		"content": "Saiu pelo buraco",
+		"color": "blue",
+		"bgColor": "blue",
+		"image": "#",
+		"margin": "5",
+		"callback": "#"
+				
+    },
+	
+	{
+        "start": "1994",
+		"end": "#",
+        "row": "3",
+		"relation": { 
+					"before": "1",
+					"after": "3",
+					"linesize": "2",
+					"linecolor": "#ff0000",
+					"curve": "lr",
+					"lineDash": "10,10"
+					},		
+		"label": "Vila Franca de Xira",
+		"content": "Viu o Pulp Fiction e ia para a Biblioteca de Vila Franca de Xira ouvir a OST do filme e ler livros de Carl Sagan.",
+		"color": "#ff0000",
+		"bgColor": "",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/6/67/VFX1.png",
+		"margin": "5",
+		"callback": ""
+		
+	},
+	
+	{
+        "start": "1996",
+		"end": "#",
+        "row": "3",
+		"relation": { 
+					"before": "2",
+					"after": "4",
+					"linesize": "10",
+					"linecolor": "green",
+					"curve": "lb" ,
+					"lineDash": "10,10"
+					},		
+		"label": "Vila Franca de Xira to Almeirim",
+		"content": "É transferido de Vila Franca de Xira para Almeirim. Perde contacto com todos os amigos de infância. Primeiro contacto com Prodigy através de um amigo do irmão, Sérgio “Bogart” Mendes.",
+		"color": "#ff0000",
+		"bgColor": "green",
+		"image": "#",
+		"margin": "5",
+		"callback": ""
+		
+	},
+
+	{
+        "start": "1997",
+		"end": "#",
+        "row": "3",
+		"relation": { 
+					"before": "3",
+					"after": "5",
+					"linesize": "10",
+					"linecolor": "purple",
+					"curve": "lb",
+					"lineDash": "[10,10]"
+					},		
+		"label": "Salvaterra de Magos",
+		"content": "Candidata-se por acaso para a EPSM e consegue entrar para o curso de Hotelaria.<br>Faz o teste de inglês requerido para o curso de Hotelaria mas na entrevista troca para Artes Gráficas.<br>A fotografia analógica revela-se. Compra todos os singles de Prodigy que consegue.<br>Compra (o pai, claro) uma Canon EOS 500 e um AMD 266 MMX, onde faz as primeiras merdas com música.",
+		"color": "purple",
+		"bgColor": "purple",
+		"image": "#",
+		"margin": "5",
+		"callback": ""
+		
+	},
+
+	{
+        "start": "1998",
+		"end": "#",
+        "row": "3",
+		"relation": { 
+					"before": "4",
+					"after": "6",
+					"linesize": "5",
+					"linecolor": "brown",
+					"curve": "lb",
+					"lineDash": "10,10"
+					},		
+		"label": "DJ Start",
+		"content": "Conhece Gonçalo Silva, AKA Real Phase e expande horizontes na música electrónica.<br>Primeiro contacto com Amon Tobin.<br>Conhece Filipe Ribeiro (Pinta).",
+		"color": "brown",
+		"bgColor": "brown",
+		"image": "#",
+		"margin": "5",
+		"callback": ""
+		
+	},
+
+	{
+        "start": "2000-08-01",
+		"end": "#",
+        "row": "3",
+		"relation": { 
+					"before": "5",
+					"after": "7",
+					"linesize": "5",
+					"linecolor": "red",
+					"curve": "lb",
+					"lineDash": "10,10"
+					},		
+		"label": "First gig",
+		"content": "Primeiro gig de drum’n’bass, com Real Phase.",
+		"color": "red",
+		"bgColor": "red",
+		"image": "#",
+		"margin": "5",
+		"callback": "#"
+		
+	},
+	{
+        "start": "2000-12-31",
+		"end": "#",
+        "row": "3",
+		"relation": { 
+					"before": "6",
+					"after": "10000",
+					"linesize": "5",
+					"linecolor": "black",
+					"curve": "lb",
+					"lineDash": "10,10"
+					},		
+		"label": "Coimbra",
+		"content": "Conhece Nuno Mesquita e André Marça num gig de passagem-de-ano em Coimbra.",
+		"color": "black",
+		"bgColor": "black",
+		"image": "#",
+		"margin": "5",
+		"callback": "#"
+		
+	}
+	
+	
+]
